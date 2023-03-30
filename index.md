@@ -1,16 +1,18 @@
 # 아이돌마스터 신데렐라 걸즈 아이돌 갤러리 아카이브
 
-## 보존된 아이돌 갤러리 목록
+## 아이돌 갤러리 목록
 * [Haru](idols/Haru)
 * [Risa](idols/Risa)
 * [Momoka](idols/Momoka)
 
-## 보존된 푸치 프로필 목록
+
+## 푸치 프로필 목록
 * [HaruRisaMomokaPuchi](etc/puchi/HaruRisaMomokaPuchi)
 * [ArisuYukimiKaoruPuchi](etc/puchi/ArisuYukimiKaoruPuchi)
 * [YoshinoShokoKoharuPuchi](etc/puchi/YoshinoShokoKoharuPuchi)
 
-## 보존된 기타 커뮤 목록
+
+## 기타 커뮤 목록
 * [HaruHistory1](idols/etc/episodes/HaruHistory1)
 * [HaruHistory2](idols/etc/episodes/HaruHistory2)
 * [HaruHistory3](idols/etc/episodes/HaruHistory3)
@@ -24,22 +26,6 @@
 * [MomokaHistory4](idols/etc/episodes/MomokaHistory4)
 * [ArisuHistory1](idols/etc/episodes/ArisuHistory1)
 * [ArisuHistory2](idols/etc/episodes/ArisuHistory2)
-* [HaruRefresh1](idols/etc/episodes/HaruRefresh1)
-* [HaruRefresh2](idols/etc/episodes/HaruRefresh2)
-* [RisaRefresh1](idols/etc/episodes/RisaRefresh1)
-* [RisaRefresh2](idols/etc/episodes/RisaRefresh2)
-* [RisaRefresh3](idols/etc/episodes/RisaRefresh3)
-* [MomokaRefresh1](idols/etc/episodes/MomokaRefresh1)
-* [MomokaRefresh2](idols/etc/episodes/MomokaRefresh2)
-* [ArisuRefresh1](idols/etc/episodes/ArisuRefresh1)
-* [ArisuRefresh2](idols/etc/episodes/ArisuRefresh2)
-* [ArisuRefresh3](idols/etc/episodes/ArisuRefresh3)
-* [KoharuRefresh1](idols/etc/episodes/KoharuRefresh1)
-* [KoharuRefresh2](idols/etc/episodes/KoharuRefresh2)
-* [KoharuRefresh3](idols/etc/episodes/KoharuRefresh3)
-* [KaoruRefresh1](idols/etc/episodes/KaoruRefresh1)
-* [KaoruRefresh2](idols/etc/episodes/KaoruRefresh2)
-* [KaoruRefresh3](idols/etc/episodes/KaoruRefresh3)
 * [HaruDreamLiveMain](idols/etc/episodes/HaruDreamLiveMain)
 * [Haru7thMain](idols/etc/episodes/Haru7thMain)
 * [Haru7thEP1](idols/etc/episodes/Haru7thEP1)
